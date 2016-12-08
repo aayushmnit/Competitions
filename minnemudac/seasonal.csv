@@ -1,0 +1,291 @@
+,,,,,1.973684211,2.25,2.181818182,2.038461538,2.333333333,2.115384615,2.176470588,1.95,1.823529412,2.32,1.545454545,1.96875,2.25,2.260869565,2.398148148,2.053672316,2.069264069,2.204819277,2.070281124,1.844660194,1.941091954,1.93697479,2.021577381,2.025745257,2.153225806,1.975524476,1.75502008,1.898773006,1.873420479,2.034482759,2.060135135,2.053357314,1.973360656,2.198879552,2.29775641
+DNR_ID_SITE_NUMBER,LAKE_NAME,CITY,COUNTY,MAJOR_WATERSHED,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+02000600-01,Centerville Lake,Lino Lakes,Anoka,Mississippi River - Twin Cities,1,2,NA,2,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+02002600-01,Linwood Lake,Linwood Township,Anoka,Lower St. Croix River,3,2,NA,2,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA
+02004200-01,Coon Lake,Columbus Township,Anoka,Lower St. Croix River,2,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+02004500-01,Golden Lake,Circle Pines,Anoka,Mississippi River - Twin Cities,1,NA,NA,NA,NA,1,2,1,0,0,0,0,NA,1,NA,NA,2,1,2,2,2,1,1,1,1,2,2,2,2,2,2,NA,NA,NA,NA
+02007200-01,Laddie Lake,Spring Lake Park,Anoka,Mississippi River - Twin Cities,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,NA,NA,NA,NA,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+02007501-01,Moore Lake,Fridley,Anoka,Mississippi River - Twin Cities,2,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+02009100-01,George Lake,Oak Grove,Anoka,Rum River,4,4,4,NA,4,NA,NA,NA,NA,4,NA,NA,NA,NA,4,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA
+02013000-01,Pickerel Lake,Nowthen,Anoka,Rum River,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA
+10000200-02,Riley Lake,Chanhassen,Carver,Lower Minnesota River,2,2,2,2,2,2,2,2,NA,NA,NA,2,NA,2,NA,NA,NA,2,NA,NA,2,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10005300-01,Pierson Lake,Laketown Township,Carver,Mississippi River - Twin Cities,3,4,4,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,3,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+10005900-01,Waconia Lake,Waconia Township,Carver,Lower Minnesota River,2,3,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,4,3,3,3,2,2,2,3,3,2,3,3,2,2,2,3,2,2,3,3,2
+10012100-01,Eagle Lake,Camden Township,Carver,South Fork Crow River,1,1,NA,2,NA,0,2,2,NA,NA,NA,2,NA,3,NA,NA,2,3,2,1,2,1,1,1,1,2.5,0,0,0,1.5,1,0,1,1,0
+19002000-01,Chub Lake,Eureka Township,Dakota,Cannon River,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+19002601-01,Marion Lake,Lakeville,Dakota,Mississippi River - Lake Pepin,2,1,NA,2,NA,NA,NA,2,NA,2,NA,NA,NA,NA,3,NA,NA,NA,NA,3,3,3,2,2,2,2,2,2,2,2,2,3,3,3,4
+19002700-01,Crystal Lake,Burnsville,Dakota,Lower Minnesota River,2,NA,NA,3,NA,NA,1,1,0,3,NA,NA,1,NA,1.5,2,2,2,2,2,2,2,2,2,2,1.5,2,2,2,3,1.5,3,2,3,3
+19003100-01,Orchard Lake,Lakeville,Dakota,Lower Minnesota River,2,3,NA,3,NA,NA,NA,NA,NA,3,NA,NA,NA,2,NA,NA,NA,NA,2,2,2,3,NA,2,3,3,3,2,4,4,4,3,3,4,4
+19005700-01,Fish Lake,Eagan,Dakota,Lower Minnesota River,2,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,2,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27007800-01,Staring Lake,Eden Prairie,Hennepin,Lower Minnesota River,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,1,NA,1,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+27010700-01,Parkers Lake,Plymouth,Hennepin,Mississippi River - Twin Cities,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,2,4,NA,4,3,3,3,3,3,3,3,4,NA,3,NA,NA
+27012500-01,Diamond Lake,Dayton,Hennepin,Mississippi River - Twin Cities,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27013700-01,Christmas Lake,Shorewood,Hennepin,Mississippi River - Twin Cities,4,4,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,4,NA,NA,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27017600-01,Independence Lake,Medina,Hennepin,South Fork Crow River,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27017901-01,Little Long Lake,Minnetrista,Hennepin,South Fork Crow River,4,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,4,NA,4,NA,NA,3,4,NA,4,4,NA,4,NA,NA
+27018401-01,Whaletail Lake,Minnetrista,Hennepin,South Fork Crow River,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,1.5,1.5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62000200-01,Bald Eagle Lake,White Bear Township,Ramsey,Mississippi River - Twin Cities,1,2,NA,2,2,NA,2,NA,2,2,2,2,2,3,2,2,2,2,2,2,2,1,NA,NA,2,1.5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70002600-01,Lower Prior Lake,Prior Lake,Scott,Lower Minnesota River,2,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,3,4,2.5,3,3,2.5,2.5,3,3,4,3,3,3,4,3,4,4,4,3
+70005000-01,McMahon Lake,Spring Lake Township,Scott,Lower Minnesota River,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,1,NA,NA,NA,1,1,2,1,2,2,2,2,2,2
+70005400-01,Spring Lake,Prior Lake,Scott,Lower Minnesota River,1,2,2,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,1,2,0,2,1,2,2,2,1,1,1,1,1,1,NA
+70007200-01,Upper Prior Lake,Prior Lake,Scott,Lower Minnesota River,1,1,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,2,2,1,1,1,1,1,2,1,2,1,1,2,2,2,2,1,2,NA
+70009100-01,Cedar Lake,Helena Township,Scott,Lower Minnesota River,0,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82004600-01,Square Lake,May Township,Washington,Lower St. Croix River,4,4,4,4,4,4,NA,NA,NA,4,NA,NA,NA,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,NA,NA,4,4,4,4,4
+82004900-01,Big Carnelian Lake,May Township,Washington,Lower St. Croix River,4,NA,NA,NA,3,NA,NA,NA,NA,4,NA,4,NA,NA,4,NA,4,4,4,3,4,4,4,3,4,4,4,4,NA,NA,4,NA,4,4,4
+82005204-01,Big Marine Lake,May Township,Washington,Lower St. Croix River,3,3,NA,NA,3,NA,NA,NA,NA,4,NA,3,NA,NA,4,NA,4,4,4,3,4,4,3,4,4,4,3,4,NA,NA,NA,4,NA,4,4
+82010100-01,DeMontreville Lake,Lake Elmo,Washington,Lower St. Croix River,2,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,2,NA,3,NA,3,NA,NA,NA,NA,4,NA,NA,4,4,3,3,2,4,3,3,4,4,4,4
+82010600-01,Elmo Lake,Lake Elmo,Washington,Lower St. Croix River,3,4,3,NA,3,NA,NA,NA,4,NA,NA,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,4,4,4,4,3,4,4,4
+82011500-01,Tanners Lake,Oakdale,Washington,Mississippi River - Twin Cities,3,NA,NA,3,2,3,3,3,3,NA,NA,NA,NA,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82015900-01,Forest Lake,Forest Lake Township,Washington,Lower St. Croix River,2,NA,NA,NA,2,NA,2,NA,2,3,NA,2,NA,2,NA,3,2,3,3,2,2,3,2.666666667,2,3,2,2,2,3,3,3,2,2.333333333,2.666666667,2.666666667
+82016300-01,Clear Lake,Forest Lake Township,Washington,Mississippi River - Twin Cities,2,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,2,3,3,3,3,3,3,2,2,3,3,NA,NA,2,NA,4,2,4,NA,NA,NA,4
+02000500-01,George Watch Lake,Lino Lakes,Anoka,Mississippi River - Twin Cities,NA,0,1,1,NA,1,NA,1,1,0,1,0,NA,NA,NA,NA,0,1,0,1,1,0,1,1,0,1,0,0,1,1,1,1,0,0,NA
+02000700-01,Marshan Lake,Lino Lakes,Anoka,Mississippi River - Twin Cities,NA,1,NA,1,NA,1,NA,0,1,1,1,NA,NA,NA,NA,NA,0,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27010400-01,Medicine Lake,Plymouth,Hennepin,Mississippi River - Twin Cities,NA,2,NA,2,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2
+62006900-01,Pike Lake,New Brighton,Ramsey,Mississippi River - Twin Cities,NA,1,1,2,NA,2,2,1,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82014000-01,Oneka Lake,Hugo,Washington,Mississippi River - Twin Cities,NA,3,NA,2,NA,3,NA,3,NA,NA,2,2,3,NA,NA,NA,NA,NA,NA,3,3,2,2,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27010300-01,Lost Lake,Plymouth,Hennepin,Mississippi River - Twin Cities,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27071100-01,Westwood Lake,St. Louis Park,Hennepin,Mississippi River - Twin Cities,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,3,2,2,3,3,2,2,2,3,2,3,2,2,NA,NA
+02000400-01,Peltier Lake,Lino Lakes,Anoka,Mississippi River - Twin Cities,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,1,1,1,1,0,0,1,1,1,0,1,NA,NA,NA,NA,NA,NA,NA
+02002200-01,Island Lake,Linwood Township,Anoka,Lower St. Croix River,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,2,2,3,3,2,2,2,3,NA,NA
+02003400-01,Martin Lake,Linwood Township,Anoka,Lower St. Croix River,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,1,NA,1,NA,1,NA,1,1,NA,NA,NA,NA,NA,NA
+02008400-01,Crooked Lake,Coon Rapids,Anoka,Mississippi River - Twin Cities,NA,NA,NA,2,NA,NA,NA,NA,NA,2,NA,NA,NA,3,3,3,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10001900-01,Bavaria Lake,Chaska,Carver,Lower Minnesota River,NA,NA,NA,2,NA,NA,2,2,NA,NA,NA,NA,NA,NA,3,NA,3,4,4,3,3,3,3,3,3,2,3,3,2,3,3,3,2,2,2
+10004401-01,Auburn Lake,Laketown Township,Carver,Mississippi River - Twin Cities,NA,NA,NA,2,NA,NA,3,3,NA,2,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10004800-01,Wasserman Lake,Victoria,Carver,Mississippi River - Twin Cities,NA,NA,NA,1,NA,NA,2,2,NA,NA,NA,NA,NA,NA,2,NA,NA,2,1,1,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+19006500-01,Holland Lake,Eagan,Dakota,Lower Minnesota River,NA,NA,NA,2,2,2,NA,NA,3,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27004700-01,Bush Lake,Bloomington,Hennepin,Lower Minnesota River,NA,NA,NA,3,4,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA,NA,3,NA,4,NA,NA,3,NA,4,3,4,4,4,4,3,4,4
+82016600-01,Carver Lake,Woodbury,Washington,Mississippi River - Twin Cities,NA,NA,NA,2,2,2,2,1,2,NA,NA,NA,NA,2,2,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+02005300-01,Ham Lake,Ham Lake,Anoka,Mississippi River - Twin Cities,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,4,3,NA,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10000900-01,Minnewashta Lake,Chanhassen,Carver,Mississippi River - Twin Cities,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,4,NA,NA,4,NA,NA,NA,4,4,4,NA,NA,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10001800-01,Schutz Lake,Victoria,Carver,Mississippi River - Twin Cities,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10004100-01,Zumbra Lake,Victoria,Carver,Mississippi River - Twin Cities,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10004200-01,Parley Lake,Laketown Township,Carver,Mississippi River - Twin Cities,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+10004500-01,Stieger Lake,Victoria,Carver,Mississippi River - Twin Cities,NA,NA,NA,NA,3,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19007500-01,Schultz Lake,Eagan,Dakota,Lower Minnesota River,NA,NA,NA,NA,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27011900-01,Cedar Island Lake,Maple Grove,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,1,NA,0,NA,NA,0,NA,NA,0,NA,NA,NA,NA,NA
+62000100-01,Silver Lake,North St. Paul,Ramsey,Lower St. Croix River,NA,NA,NA,NA,2,3,2,3,3,3,3,3,3,3,4,3,3,3,3,2,2.5,2.5,3,3,3,3.5,2.5,2,2,3,NA,NA,NA,NA,NA
+62005400-01,McCarrons Lake,Roseville,Ramsey,Mississippi River - Twin Cities,NA,NA,NA,NA,3,2,3,2,2,2,NA,2,NA,2,3,2,2,NA,NA,2,2,3,2,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70009500-01,O'Dowd Lake,Shakopee,Scott,Lower Minnesota River,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,2,NA,1,NA,NA,2,1,2,2,2,2,2,2,2,3
+70012001-01,Thole Lake,Louisville Township,Scott,Lower Minnesota River,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,NA,1,NA,1,NA,NA,1,1,NA,NA,NA,NA,2,NA,NA,NA
+82005400-01,Bone Lake,Scandia,Washington,Lower St. Croix River,NA,NA,NA,NA,2,NA,NA,2,2,2,NA,2,NA,2,NA,NA,NA,2,2,2,NA,2,2,2,2,2,2,2,2,2,2,3,2,2,2
+82010300-01,Olson Lake,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,3,NA,3,NA,3,NA,NA,NA,NA,4,NA,NA,4,4,3,3,3,4,4,3,4,3,4,4
+82010400-01,Jane Lake,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,2,NA,3,3,NA,NA,NA,3,NA,NA,4,NA,NA,NA,NA,NA,4,NA,NA,NA,4,4,4,4,4,4,4,4,NA,NA,NA
+82011800-01,Long Lake,Pine Springs,Washington,Lower St. Croix River,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82015300-01,Sunset Lake,Hugo,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2,2,2,2,2,3,4,4,4,4,4,4,4,4,4,NA,3,4,4,4
+10000600-01,Lotus Lake,Chanhassen,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,1,2,2,2,2,2,2,2,2,NA,NA,NA
+10000700-01,Lucy Lake,Chanhassen,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,2
+10001200-01,Ann Lake,Chanhassen,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,4,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,3,4,NA,4,NA,NA
+10005200-01,Reitz Lake,Laketown Township,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,2,2,1,2,2,2,2,2,3,2,2,3,2,1,2,2
+10008800-01,Hydes Lake,Waconia Township,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,1,NA,1,NA,NA,1,NA,NA,1,1,2,1,2,1,1,1,1,0,1,2,2,2,2,2
+19007600-01,McDonough Lake,Eagan,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27004201-01,Twin Lake,Brooklyn Center,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,1,NA,1.5,NA,NA,1.333333333,3.5,2.333333333,2,1.333333333,3,1.333333333,2,0.5,2,1,1.5,1.8,2,2.166666667,1.5,1,3,2.5
+82012200-01,Pine Tree Lake,Grant,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,3,3,2,2,3,3,3,3,3,2,2,3,3,3,3,3,4,4,3,4,4,3
+82008000-01,Halfbreed Lake,Forest Lake Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,3,4,4,4,NA,4,NA,4,NA,NA,4,NA,4,4,4,4,4,4,4,4,NA,4,4,4,4,4,4,4,4
+27013400-01,Mooney Lake,Plymouth,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19002100-01,Alimagnet Lake,Burnsville,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,2,1,2,2,1,1,1,1,1,1,1,0,1,1,1,2,2,2,1,1
+19009500-01,Seidl Lake,Inver Grove Heights,Dakota,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,3,3,2,2,1,2,2,1,2,2,2,1,1,NA,NA,2,1,NA,NA,NA
+27006700-01,Bryant Lake,Eden Prairie,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27007000-01,Mitchell Lake,Eden Prairie,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,2,NA,NA,NA,1,1,NA,NA,1,2,2,1,2,2,2,2,2,2,2,2
+82001400-01,Little Carnelian Lake,Stillwater Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA,4,4,NA,NA,4,4,4,4,4,4,4,4,NA,NA,NA,NA,NA,4,4
+82003500-01,Bass Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,NA,NA,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82003600-01,Turtle Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,1,1,1,2,2,2,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82016200-01,Shields Lake,Forest Lake,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1,2,2,2,2,1,1,1,1,1,1,1,1,1,1,NA,NA,NA,NA,1,1,1
+02008000-01,Sullivan Lake,Columbia Heights,Anoka,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,1,1,1,1,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19000600-01,Byllesby Lake,Stanton Township,Goodhue,Cannon River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19002200-01,Long Lake,Apple Valley,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.5,2,1.5,1.5,1.5,0,1,1,1,1.25,1.333333333,2,1.666666667,1.833333333,2,2.5,2.333333333,2.4,2,1.75,2.25,1.8
+19003000-01,Kingsley Lake,Lakeville,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,3,4,4,NA,NA,4,3,4,3,4,4,3,4,4,4,4,4,NA,NA,4
+19003700-01,Simley Lake,Inver Grove Heights,Dakota,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,2,3,3,3,2,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA
+19004100-01,Marcott Lake,Inver Grove Heights,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,3,4,4,4,4,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA
+19026300-01,Marcott Lake,Inver Grove Heights,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27073400-01,Crane Lake,Minnetonka,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70009800-01,Pleasant Lake,Helena Township,Scott,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82006700-01,Sand Lake,Scandia,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,NA,NA,NA,NA,NA,2,2,3,2,2,3,2,3,2,NA,NA,NA,2
+82009100-01,Battle Creek Lake,Woodbury,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82013401-01,Lost Lake,Mahtomedi,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,3,NA,NA,NA,NA,NA,NA
+13005300-01,Big Comfort Lake,Wyoming Township,Chisago,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,2,3,2,2,2,3,2,3,3,3,3,2,2,3,2
+13005400-01,Little Comfort Lake,Chisago City,Chisago,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2,3,3,2,2,2,2
+19000400-01,Isabelle Lake,Hastings,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19002300-01,Farquar Lake,Apple Valley,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,2,1,NA,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1
+19002900-01,Lee Lake,Lakeville,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,NA,NA,1,2,2,2,2,2,2,2,2,4,4,3,2,3,NA
+19003300-01,Earley Lake,Burnsville,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,2,2,2,2,2,2,2,3,2,3,3,2,3,3,2,3
+19045100-01,Sunset Pond,Burnsville,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,2,2,3,NA,3,3,3,2,3,NA,2,3,3,3,3,3,3,3,3
+82002000-01,McKusick Lake,Stillwater,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,2,1,1,3,3,2,2,3,2,2,2,2,3,3,2,3,2,2
+82008900-01,Markgraf Lake,Woodbury,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,1,0,1,2,1,1,1,1,1,0,1,1,0,0,1,0,1,1
+82009002-01,Wilmes Lake,Woodbury,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,2,1,1,2,2,1,1,2,2,1,2,2,2,2,2,2,2,2,2
+82009200-01,Powers Lake,Woodbury,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,4,3,2,4,3,2,2,3,2,2,2,2,3,3,2,2,4,4,3
+82009400-01,Colby Lake,Woodbury,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,0,1,1,0,1,0,1,1,0,1,0,NA,1,1,1,1,1
+82009700-01,La Lake,Woodbury,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2,2,3,2,2,2,2,2,NA,2,2,1,2,2,2,2,2,2,NA
+82011301-01,Goose Lake,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1.666666667,1.5,1,2,1,0,1,1,0,2,1,1,1,0.5,0.5,0.5,1,0.5,0.75,1.5
+82012300-01,Bass Lake,Grant,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,2,2,2,1,2,3,2,2.666666667,2.5,2.5,2.333333333,2.5,2.666666667,3.333333333,3,3
+10002900-01,Miller Lake,Dahlgren Township,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,NA,1,1,1,1,0,0,1,0,0,1,0,1,1,0,1,1
+10006600-01,Winkler Lake,Benton Township,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,0,0,1,NA,0,NA,0,NA,1,0,NA,0,0,NA,NA,NA
+19003200-01,Horseshoe Lake,Burnsville,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,2.333333333,2.5,3,2,2,2
+19034800-01,Valley Lake,Lakeville,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,NA,NA,2,3,3,3,2,2,1,2,2,3,1,2,2,0,2
+19036900-01,Raven Lake,Lakeville,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27010200-01,Schmidt Lake,Plymouth,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,2,2,NA,NA,2,2,NA,3,NA,NA,NA,4,NA,NA,NA
+27017500-01,Henry Lake,Rogers,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,0,0,1,NA,NA,NA
+82002300-01,Lily Lake,Stillwater,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,2,2,2,2,3,2,2,2,2,2,2,2,3,3,NA,2,3,4
+82015100-01,South School Section Lake,Hugo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,2,NA,NA,NA,NA,NA,NA,2,2,2,2,3,2,2,2,2,NA
+99002487-01,Sed Basin Adj to Valley Lake,Lakeville,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,NA,NA,2,3,3,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10000500-01,Courthouse Lake,Chaska,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,3,4
+10009500-01,Swede Lake,Watertown Township,Carver,South Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,1,1,0,0,1,0,0,0,0,0,0,0,0,1
+19002400-01,Wood Lake,Burnsville,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,3,1,3,2
+19002500-01,Keller Lake,Burnsville,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,3,1,1,1,2,1,2,2,1,2,3,1,1,1,1,1,1
+27005700-01,Meadow Lake,New Hope,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,0,NA,NA,0,NA,NA,0,NA,NA,0,NA,NA,NA
+27005800-01,Ryan Lake,Robbinsdale,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3,NA,1,NA,3,3,NA,NA,NA,NA,3,NA,3,NA,NA,NA,NA
+27010000-01,Pomerleau Lake,Plymouth,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,2,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+27011102-01,Pike Lake,Maple Grove,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,1,1,1.333333333,1,0.666666667,0.5,0.5,0.5,1,1.5,1,1,NA,2,NA,NA,NA
+27063400-01,Success Lake,Brooklyn Park,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,2,NA,NA,1,NA,NA,2
+82001502-01,Loon Lake,Stillwater Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+82001700-01,Carol Lake,Stillwater Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,3,3,3,NA,2,2,2,2,3,NA,NA,NA,NA,NA,NA,NA
+82001800-01,North Twin Lake,Stillwater Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2,3,3,3,NA,3,3,3,3,2,NA,NA,NA,NA,NA,NA,NA
+82001900-01,South Twin Lake,Stillwater,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,2,1,NA,NA,2,2,1,1,1,2,3,2,NA,NA,NA
+82002500-01,Louise Lake,Stillwater Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,2,1,2,1,1,NA,NA,NA,NA,1,1,1,1,2,NA,NA,NA
+82002602-01,Mud Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+82003400-01,East Boot Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,2,2,2,2,2,3,3,3,3,3,4,4,3,3,4,4
+82004400-01,West Boot Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,3,4,4,4,4,4,4,4,4,4,NA,NA,NA,NA,4,4,4
+82005202-01,Jellums Lake,Scandia,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,0,1,1,1,1,1,1,2,2,3,2,2,NA,NA,NA
+82005900-01,Goose Lake,Scandia,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+02065400-01,Cenaiko Lake,Coon Rapids,Anoka,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4,4,4,3,4,4,4,4,4,4,3,3,3,3,3,NA,NA
+19044600-01,Lac Lavon Lake,Apple Valley,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,4,4,4
+27068100-01,Grass Lake,Minneapolis,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70001600-01,Dan Patch Lake,Savage,Scott,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70002100-01,Markley Lake,Credit River Township,Scott,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,2,2,2,NA,2,2,NA,NA,NA,NA,NA,NA,NA
+82002800-01,Staples Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,3,3,NA,NA,3,4,3,3,NA,NA,NA,NA,NA,NA,NA
+82003800-01,Maple Marsh Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+82007600-01,Barker Lake,Hugo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,1,2,2,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,2,2
+82013700-01,Fish Lake,Grant,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,1,1.5,1,1.333333333,1.5,1.5,1.5,2,2,2,1.333333333,2.25,1.333333333,2,NA
+82006500-01,Hay Lake,Scandia,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,NA,2,1,1,2,2,2,2,2,2,NA,NA,NA
+82006800-01,Long Lake,Scandia,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82008200-01,Gables Lake,Cottage Grove,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82008700-01,Regional Park Lake,Cottage Grove,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,1,1,2,2,2,2,2,3,2,2,1,2,2
+82011602-01,Armstrong Lake,Oakdale,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,2,2,2,2,2,1,2,2,2,2,2,NA,NA
+82033400-01,Kismet Lake,Grant,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,3,3,2,2,2,2,2,2,2,NA,NA,NA
+02007900-01,Highland Lake,Columbia Heights,Anoka,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+10006900-01,Benton Lake,Cologne,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,0,NA,0,NA,0,0,0,1,0,0,0,0
+10008400-01,Burandt Lake,Waconia,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,NA,NA,2,2,NA,NA,NA,NA,2,2,NA,2,2
+27006500-01,Magda Lake,Brooklyn Park,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,0,NA,NA,0,NA,NA,1,NA,NA,0,NA,NA
+27007600-01,Red Rock Lake,Eden Prairie,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,2
+82001000-01,McDonald Lake,Baytown Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,2,2,2,3,2,2,1,2,2,NA,1,2,2,2
+82007700-01,Goggins Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,2,2,2,1,1,1,1,1,2,2,2,1
+82011000-01,Downs Lake,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,0,1,0,1,0,0,NA,0,NA,NA,0,0,1
+82013300-01,Sunnybrook Lake,Grant,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3,3,3,3,3,3,3,4,4,4,3,4,NA,NA
+10001000-01,Tamarack Lake,Victoria,Carver,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,3,2,2,2,2,3,3,3,NA,NA,NA,NA,NA
+10001400-01,Hazeltine Lake,Chaska,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0
+10001500-01,Virginia Lake,Victoria,Carver,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10003100-01,Gaystock Lake,Dahlgren Township,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+10005800-01,Maria Lake,Benton Township,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,0,NA,NA
+10008000-01,Rutz Lake,Waconia Township,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,1,0,0,0,NA,1,NA,NA,NA
+10012700-01,Campbell Lake,Winsted Township,Carver,South Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+27003501-01,Sweeney Lake,Golden Valley,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+27016500-01,Jubert Lake,Corcoran,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27019900-01,Hafften Lake,Greenfield,Hennepin,North Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,2,2,2,NA,NA,NA,2,NA,NA,2,2
+27062700-01,Northwood Lake,New Hope,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,2,2,1,1,1,1,1,1,1,1,NA
+27064500-01,South Rice Lake,Golden Valley,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,2,1,1,1,1,NA,NA,NA,NA,NA,NA
+82010700-01,Sunfish Lake,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1,1.5,2,1.5,3,2,2.5,2.5,1.5,2
+82048200-01,Mergens Pond,West Lakeland Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,NA,NA,NA
+10022600-01,Fireman's Clayhole Lake,Chaska,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,4,4,4,3,4,4,3,3,4,3,3,4
+19011700-01,Deeg Lake,Burnsville,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27012700-01,French Lake,Dayton,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62005800-01,Little Johanna Lake,Roseville,Ramsey,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,2,NA,2,2,2,2,2,2,NA
+62007100-01,Valentine Lake,Arden Hills,Ramsey,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,2,2,2,NA,NA,NA,NA,NA,NA
+82000900-01,Cloverdale Lake,Baytown Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,3,3,4,3,3,3,3,3,4,3,4,NA
+10009300-01,Oak Lake,Watertown Township,Carver,South Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,1,2,1.333333333,0,1,NA,NA,NA,NA,NA,NA
+10021700-01,Jonathan Lake,Chaska,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,0,0,0,0,1,1,NA
+10022500-01,Brickyard Clayhole Lake,Chaska,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,4,4,4,4,4,4,4,4,4,4,4
+27005300-01,Cobblecrest Lake,St. Louis Park,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,0,0,0,0,0,0,0,1,NA,1,NA
+27018700-01,Haughey Lake,Independence,Hennepin,South Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27066100-01,South Oak Lake,St. Louis Park,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,1,0,0,2,NA,2,1,1,NA
+70001800-01,Cates Lake,Savage,Scott,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,3,3,3,3,3,4,3,NA,3,NA
+70007400-01,Dean Lake,Shakopee,Scott,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,0,0,1,NA,2,NA,NA,NA,NA
+82005600-01,German Lake,Scandia,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,3,3,3,NA,NA,NA,NA,NA,NA,NA
+82031300-01,Goetschel Lake,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,3,3,3,3,2,3,NA,NA,NA,NA
+82036800-01,Klawitter Pond,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,1,1,1,1,1,1,1,2,1
+10000200-01,Riley Lake,Eden Prairie,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,3,3,2,2,2,2,2,2,2
+10021800-01,Grace Lake,Chaska,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,NA,1,1,1,1,1,1,1,1
+27002802-01,Cornelia Lake,Edina,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0,1,1,NA,NA,NA,NA,1
+10001100-01,St. Joe Lake,Chanhassen,Carver,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,3,4,4,3,4,4,4,NA,4
+27002900-01,Edina Lake,Edina,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27008200-01,Windsor Lake,Minnetonka,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27008500-01,Libbs Lake,Minnetonka,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27067000-01,Harvey Lake,Edina,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27067500-01,Pamela Pond,Edina,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82001501-01,Herber Pond,Stillwater Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,2,1,NA,NA,NA,NA,NA,NA,NA
+82003100-01,Terrapin Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,3,3,NA,NA,NA,NA,NA,NA,4
+82006200-01,MacDonald Lake,Scandia,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,4,3,NA,NA,NA,NA,NA,NA,NA
+82030100-01,Schroeder Pond,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,2,2,NA,NA,NA,NA,NA,NA,NA
+02008100-01,Hart Lake,Columbia Heights,Anoka,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+13002300-01,Moody Lake,Chisago Lake Township,Chisago,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,1,1,1,1,1
+13005700-01,School Lake,Wyoming Township,Chisago,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,NA,2,NA,NA,NA,NA,NA
+19034900-01,East Lake,Lakeville,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0,1,NA,1,0,0,1,2
+19045600-01,Cobblestone Lake,Apple Valley,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,2,2,2,2,2,2,2
+27008600-02,Shavers Lake,Deephaven,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA
+62004901-01,Langton Lake,Roseville,Ramsey,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.333333333,2,2,2,2,2,2,NA,NA,NA
+82000200-01,O'Connors Lake,Denmark Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2,2,1,1,3,NA,3,NA
+82000400-01,Edith Lake,Afton,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,4,3,3,NA,3,3,4,4
+82012000-01,Benz Lake,Grant,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,2,1,1,2,1,NA,NA
+82046200-01,Legion Pond,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA,NA
+02000900-01,Reshanau Lake,Lino Lakes,Anoka,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,NA
+10001300-01,Susan Lake,Chanhassen,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,1,2,2,2,1,2,2
+10021600-01,McKnight Lake,Chaska,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0,0,0,1,1
+13004200-01,Birch Lake,Wyoming Township,Chisago,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,NA,NA,NA,NA,NA,NA
+19004700-01,Hornbean Lake,Sunfish Lake,Dakota,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,3,NA,NA,NA,NA,NA,NA
+27009100-01,Wing Lake,Minnetonka,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,NA
+27009300-01,Glen Lake,Minnetonka,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4,NA,NA,NA,NA,NA,NA,NA
+27016900-01,Cowley Lake,Hassan Township,Hennepin,North Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,NA,2,NA,NA,NA,NA
+27104501-01,Normandale Lake,Bloomington,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,NA,3,2,2,2,NA,NA
+62020400-01,Langton Lake,Roseville,Ramsey,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+70009100-02,Cedar Lake,Cedar Lake Township,Scott,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,1,1,1,1,1.5
+82001100-01,Bay Pond,Baytown Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,0,1,0
+82004200-01,Lynch Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0.5,1,1,1
+82007200-01,White Rock Lake,Scandia,Washington,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,2,2,2,2,NA
+82010200-01,Acorn Lake,Oakdale,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,2,NA,NA,NA,NA
+82010800-01,Friedrich's Pond,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+82010900-01,Eagle Point Lake,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,NA,NA,NA,1,0,NA,NA
+82011200-01,Rose Lake,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.333333333,0,0,NA,NA,NA,NA
+82011900-01,Weber Pond,Mahtomedi,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,3,3,NA,NA,NA,NA
+82012500-01,Pat Lake,Grant Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2,2,2,3,3,2,3
+82012600-01,Masterman Lake,Grant,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,2,NA,NA,NA
+82013200-01,Woodpile Lake,Grant Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2,3,2,3,3,4,3
+82013500-01,Echo Lake,Mahtomedi,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA
+82031800-01,July Lake,Hugo - Grant,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,NA,NA,1,1,1,1
+82051400-01,Rest Area Pond,West Lakeland Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,2,1,1,2
+02058500-01,Lochness Lake,Blaine,Anoka,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,2,3,2,2,2,2
+19008000-01,Rogers Lake,Mendota Heights,Dakota,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,3,3,3,NA,NA,NA
+19008200-01,Lemay Lake,Mendota Heights,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,3,3,3,NA,3,NA
+19019800-01,Scout Lake,Apple Valley,Dakota,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,0,1,2,1
+27008800-01,Minnetoga Lake,Minnetonka,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,NA,3,2,3,2,3
+27011601-01,Rice Elm Lake,Maple Grove,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,1,NA,NA,NA
+27015300-01,Ardmore Lake,Medina,Hennepin,South Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA
+40002700-01,Sanborn Lake,Lanesburgh Township,Le Sueur,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+40002800-01,Pepin Lake,Lanesburgh Township,Le Sueur,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA
+62007200-01,Karth Lake,Arden Hills,Ramsey,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,3,3,3,3
+66006100-01,Cody Lake,Erin Township,Rice,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA
+10007000-01,Meuwissen Lake,Cologne,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA
+27017100-01,Sylvan Lake,Rogers,Hennepin,North Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,1,0
+62003600-01,Priebe Lake,White Bear Lake,Ramsey,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,NA,1,0,NA,NA
+62018700-01,Lake Forest,New Brighton,Ramsey,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+82003300-01,Mays Lake,May Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,4,NA,NA,NA,4
+82005300-01,Sea Lake,Scandia,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA
+82011700-01,Kramer Pond,Lake Elmo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,0,1,0
+82014800-01,Plaisted Lake,Hugo,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,2,2,2,NA
+82030800-01,Brick Pond,Stillwater,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,1,NA,NA,NA
+82036500-01,Capaul Pond,Grant Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.5,NA,0,NA,NA,NA,NA
+82048800-01,West Lakeland Storage Site,West Lakeland Township,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,1,NA,NA,NA,NA
+13005600-01,Heims Lake,Wyoming,Chisago,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA
+27000400-01,Penn Lake,Bloomington,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,0,1,NA
+27008902-01,Shady Oak Lake,Minnetonka,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA,NA
+27009400-01,Lone Lake,Minnetonka,Hennepin,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,NA,NA,NA
+27014702-01,Peter Lake,Medina,Hennepin,South Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA
+82000500-01,Fahlstrom Pond,Afton,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+10000900-02,Minnewashta Lake,Chanhassen,Carver,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4,3,3,4
+19008800-01,Levander Pond,South St. Paul,Dakota,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA
+19009400-01,Anderson Pond,South St. Paul,Dakota,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,2
+82030500-01,Jackson WMA,Stillwater,Washington,Lower St. Croix River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,3,2
+27069300-01,Hidden Lake,Medicine Lake,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA
+19004200-01,Ohmans Lake,Inver Grove Heights,Dakota,Mississippi River - Lake Pepin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3.5,NA
+27012900-01,DuBay Lake,Dayton,Hennepin,Mississippi River - Twin Cities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA
+19000600-03,Byllesby Lake,Randolph Township,Dakota,Cannon River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+27007300-01,Smetana Lake,Eden Prairie,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+27012300-01,Laura Lake,Dayton,Hennepin,North Fork Crow River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+10024900-01,Big Woods Lake,Chaska,Carver,Lower Minnesota River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
